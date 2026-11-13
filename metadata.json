@@ -1,0 +1,6 @@
+{
+  "name": "Naskah Studio — AI Document Assistant",
+  "description": "Asisten dokumen berbasis AI dengan antarmuka chat interaktif, editor kertas A4 real-time, serta ekspor ke Word (.docx) dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
